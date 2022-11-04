@@ -1,1 +1,3 @@
 # AS1M-XHAKMA
+
+cd 4S1M
